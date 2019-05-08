@@ -4,6 +4,6 @@ __pycache__/
 vendors/
 ext/
 glove.840B.300d.txt
-test.csv
-train.csv
+*.csv
 .ipynb_checkpoints/
+*.docx
