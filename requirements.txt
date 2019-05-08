@@ -1,0 +1,6 @@
+matplotlib
+numpy
+Keras>=2.2.4
+pandas==0.24.2
+sklearn
+tensorflow>=1.10
